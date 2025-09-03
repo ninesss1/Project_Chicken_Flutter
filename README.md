@@ -1,1 +1,3 @@
-# Project_Chicken_Flutter
+# chicken
+
+A new Flutter project.
